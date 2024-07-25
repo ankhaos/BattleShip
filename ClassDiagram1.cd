@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Морской_Бой.Ship">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAACAQBAAAAAAAAAACEAAAAAgA=</HashCode>
+      <FileName>Ship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Морской_Бой.Data">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAEAAAAAACAAAA=</HashCode>
+      <FileName>Data.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Морской_Бой.ComputerGame">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAQIAAAAAAICAAAIIAAAAAAAACAAAAAAYCA=</HashCode>
+      <FileName>ComputerGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Морской_Бой.Battleship">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CABAwCAAAAAAAAAAAAIAAAAAFAAgAAAAgQEQABAAQAA=</HashCode>
+      <FileName>Battleship.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
